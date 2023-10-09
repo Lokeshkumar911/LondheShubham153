@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--
-**LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kumarLokesh153/kumarLokesh153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Lokesh](https://www.linkedin.com/in/Lokeshkumar1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
@@ -64,7 +64,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Visit my [Website](https://www.trainwithLokesh.com) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/Lokeshkumar1996/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/Lokeshkumar96/) ✨
+ - Shoot Me an [Email](mailto:trainwithLokesh@gmail.com) 💌
